@@ -1,0 +1,36 @@
+body{
+    overflow-x: hidden;
+}
+.rectangle{
+
+}
+.banner-div{
+
+}
+
+.navigation{
+    display: flex;
+    gap: 300px;
+}
+.icons{
+    display: flex;
+    gap: 70px;
+    margin-left: 200px;
+}
+a{
+    text-decoration: none;
+}
+.First-image{
+    width: 500%;
+}
+.box{
+    width: 100px;
+
+}
+
+
+
+
+
+
+
